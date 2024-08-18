@@ -1,6 +1,6 @@
 # CYBERFICTION - Frontend
 
-CYBERFICTION is an innovative platform designed to explore the limitless possibilities of the metaverse. This project focuses on creating a decentralized community where users can engage, create, and share new values and experiences in a virtual world. The frontend is designed with modern web technologies and provides a smooth, interactive experience.
+Welcome to the **Cyberfiction** frontend project, a dynamic web experience that immerses users in the metaverse. This project is built using HTML, CSS, and JavaScript, and incorporates the Locomotive Scroll and GSAP libraries for smooth scrolling and animations.
 
 ## Table of Contents
 - [Features](#features)
